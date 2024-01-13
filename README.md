@@ -1,8 +1,8 @@
-<h1 style="text-align: center;">Hello there 👋</h1>
-<div>
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="display: block; margin: 0 auto" alt="Working"/>
-</div>
-<p style="text-align: center; font-weight: bold">Hello i'm Lytzeer, i'm a french student in computer science.</p>
+# Hello there 👋
+
+![Working Image](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+
+**Hello i'm Lytzeer, i'm a french student in computer science.**
 
 **🗃️My Actual Stack :**
 
@@ -54,7 +54,7 @@
 
 !["Most Used Languages"](https://github-readme-stats.vercel.app/api/top-langs/?username=Lytzeer&layout=compact&theme=vision-friendly-dark")
 
-![My Stats](https://github-readme-streak-stats.herokuapp.com/?user=Lytzeer&theme=dark&hide_border=false#center)
+![My Stats](https://github-readme-streak-stats.herokuapp.com/?user=Lytzeer&theme=dark&hide_border=false)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lytzeer&show_icons=true&theme=tokyonight)
 
