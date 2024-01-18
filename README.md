@@ -45,7 +45,7 @@
 
 !["Most Used Languages"](https://github-readme-stats.vercel.app/api/top-langs/?username=Lytzeer&layout=compact&theme=vision-friendly-dark")
 
-![My Stats](https://github-readme-streak-stats.herokuapp.com/?user=Lytzeer&theme=dark&hide_border=false)
+![My Stats](https://camo.githubusercontent.com/b95fbfa9a65643ecc13e90585f67a9dd7c1b34c2ac3c94cf448f0153062e41a1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4c79747a656572267468656d653d6461726b26686964655f626f726465723d66616c7365)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lytzeer&show_icons=true&theme=tokyonight)
 
