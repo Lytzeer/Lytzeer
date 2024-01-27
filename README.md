@@ -51,4 +51,5 @@
 
 **Top Repositories :**
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lytzeer&repo=PokemonPython&theme=dark)
+![PokemonPython](https://github-readme-stats.vercel.app/api/pin/?username=Lytzeer&repo=PokemonPython&theme=dark)
+![Monit](https://github-readme-stats.vercel.app/api/pin/?username=Lytzeer&repo=Monit&theme=dark)
