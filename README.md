@@ -51,6 +51,6 @@
 
 **Top Repositories :**
 
-![PokemonPython](https://github-readme-stats.vercel.app/api/pin/?username=Lytzeer&repo=PokemonPython&theme=dark)
-![Monit](https://github-readme-stats.vercel.app/api/pin/?username=Lytzeer&repo=Monit&theme=dark)
-![Flowers](https://github-readme-stats.vercel.app/api/pin/?username=Lytzeer&repo=Flowers-Ecommerce&theme=dark)
+[![PokemonPython](https://github-readme-stats.vercel.app/api/pin/?username=Lytzeer&repo=PokemonPython&theme=dark)](https://github.com/Lytzeer/PokemonPython)
+[![Monit](https://github-readme-stats.vercel.app/api/pin/?username=Lytzeer&repo=Monit&theme=dark)](https://github.com/Lytzeer/Monit)
+[![Flowers](https://github-readme-stats.vercel.app/api/pin/?username=Lytzeer&repo=Flowers-Ecommerce&theme=dark)](https://github.com/Lytzeer/Flowers-Ecommerce)
